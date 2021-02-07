@@ -15,6 +15,7 @@ public class Main
       data.add(new Rectangle(10, 20, 30, 40));
       data.add(new Rectangle(20, 30, 5, 15));
 
+
       System.out.println("Average area: " + data.getAverage());
       System.out.println("Expected: 625");
 
